@@ -1,0 +1,7 @@
+household
+food
+party
+travel
+scholarship
+salary
+gambling
